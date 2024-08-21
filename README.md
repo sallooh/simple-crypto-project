@@ -23,8 +23,10 @@ To get started with this project, you need to install the required dependencies.
 
   ```bash
   python -m venv venv
-  source venv/bin/activate  <!--  On Windows, use `venv\Scripts\activate`-->
+  source venv/bin/activate  
   ```
+<!--  On Windows, use `venv\Scripts\activate`-->
+
 3. **Install the dependencies:**
 
   ```bash
