@@ -18,7 +18,7 @@ To get started with this project, you need to install the required dependencies.
    ```bash
    git clone https://github.com/yourusername/crypto-project.git
    cd crypto-project
-  ```
+   ```
 2. **Create a virtual environment:**
 
   ```bash
