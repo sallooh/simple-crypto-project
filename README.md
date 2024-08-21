@@ -1,4 +1,4 @@
-# Crypto Project
+# Simple Crypto Project
 
 ## Description
 
